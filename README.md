@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Vision Transformer Project</title>
 </head>
 <body>
 
